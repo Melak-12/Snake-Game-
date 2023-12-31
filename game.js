@@ -4,7 +4,7 @@ var ctx = canvas.getContext("2d");
 
 // Game objects
 var ship = {
-	x: canvas.width/2 - 25,
+	x: canvas.width / 2 - 25,
 	y: canvas.height - 100,
 	width: 50,
 	height: 50,
